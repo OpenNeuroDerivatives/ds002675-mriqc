@@ -1,1 +1,7 @@
-../../../../.git/annex/objects/V1/69/MD5E-s273--bb9bfb03dff3864db211182f06c377d6/MD5E-s273--bb9bfb03dff3864db211182f06c377d6
+WARNING (03/05/22 23:15:45): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120769.hostlist.vu3PNpMS to get hosts
+starting job on c124-174
+starting job on c133-181
+starting job on c137-051
+starting job on c156-073
+starting job on c156-074
